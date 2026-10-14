@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Primary Homepage -->
+  <url>
+    <loc>https://gepdi.org/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://gepdi.org/Logo.jpg</image:loc>
+      <image:title>GEPDI Official Logo - Global Environment, Policy and Development Initiative</image:title>
+      <image:caption>Official logo of the Global Environment, Policy and Development Initiative (GEPDI)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gepdi.org/hero_environment_1791952578886.jpg</image:loc>
+      <image:title>GEPDI Environmental Action and Sustainability</image:title>
+      <image:caption>Community climate resilience and environmental sustainability initiatives</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Section -->
+  <url>
+    <loc>https://gepdi.org/#about</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gepdi.org/about_team_1791952590544.jpg</image:loc>
+      <image:title>GEPDI Leadership and Policy Team</image:title>
+      <image:caption>GEPDI leadership team advancing evidence-based policy advocacy and environmental action</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Programs Section -->
+  <url>
+    <loc>https://gepdi.org/#programs</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gepdi.org/program_climate_1791952625084.jpg</image:loc>
+      <image:title>Climate Action and Environmental Justice Program</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://gepdi.org/program_policy_1791952634510.jpg</image:loc>
+      <image:title>Policy Advocacy and Governance Reform Program</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://gepdi.org/program_community_1791952643821.jpg</image:loc>
+      <image:title>Community Development and Empowerment Program</image:title>
+    </image:image>
+  </url>
+
+  <!-- Impact Section -->
+  <url>
+    <loc>https://gepdi.org/#impact</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- News & Media Section -->
+  <url>
+    <loc>https://gepdi.org/#news</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- FAQ Section -->
+  <url>
+    <loc>https://gepdi.org/#faq</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact & Partnership Section -->
+  <url>
+    <loc>https://gepdi.org/#contact</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Donate Section -->
+  <url>
+    <loc>https://gepdi.org/#donate</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+</urlset>

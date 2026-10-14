@@ -1,0 +1,17 @@
+{
+  "name": "Global Environment, Policy and Development Initiative",
+  "short_name": "GEPDI",
+  "description": "GEPDI is a non-governmental organization dedicated to environmental sustainability, evidence-based policy reform, and inclusive community development.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1f3c",
+  "theme_color": "#1b4332",
+  "icons": [
+    {
+      "src": "Logo.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

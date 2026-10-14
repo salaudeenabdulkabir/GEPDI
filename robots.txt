@@ -1,0 +1,27 @@
+# robots.txt for Global Environment, Policy and Development Initiative (GEPDI)
+# https://gepdi.org/
+
+User-agent: *
+Allow: /
+Disallow: /scratch/
+Disallow: /temp/
+
+# Googlebot specific directives
+User-agent: Googlebot
+Allow: /
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.svg$
+Allow: /*.css$
+Allow: /*.js$
+
+# Googlebot-Image
+User-agent: Googlebot-Image
+Allow: /
+Allow: /Logo.jpg
+Allow: /*.jpg$
+
+# Crawl Delay & Sitemap
+Crawl-delay: 1
+Sitemap: https://gepdi.org/sitemap.xml
